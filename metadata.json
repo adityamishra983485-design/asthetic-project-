@@ -1,0 +1,6 @@
+{
+  "name": "Hope Aesthetics Center",
+  "description": "Elegant website for Hope Aesthetics Center featuring a virtual skincare advisor, booking simulator, interactive treatment catalogs, and realistic skincare comparison sliders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
